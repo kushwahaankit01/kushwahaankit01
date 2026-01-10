@@ -56,7 +56,7 @@ I enjoy working at the intersection of **ML research and backend engineering**, 
 
 ### ⚖️ AI-Powered Indian Legal Assistant
 **RAG-based conversational system for Indian legal queries**
-- Semantic search over legal PDFs using **FAISS**
+- Semantic search over legal PDFs using **MILVUS**
 - Domain-specific embeddings with **InLegalBERT**
 - Local LLM inference using **Ollama**
 - Flask-based API for real-time responses
@@ -90,10 +90,7 @@ I enjoy working at the intersection of **ML research and backend engineering**, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://stats.justsong.cn/api/github?username=ARSRAM&theme=light" />
-</p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ARSRAM?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
