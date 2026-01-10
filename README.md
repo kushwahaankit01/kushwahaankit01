@@ -89,9 +89,13 @@ I enjoy working at the intersection of **ML research and backend engineering**, 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARSRAM&show_icons=true&theme=default&cache_seconds=86400" />
+  <img src="https://stats.justsong.cn/api/github?username=ARSRAM&theme=light" />
 </p>
+
+
+
 
 
 ---
@@ -103,4 +107,4 @@ I enjoy working at the intersection of **ML research and backend engineering**, 
 
 ---
 
-⭐ *Always open to internships, research collaborations, and GenAI projects.*
+
