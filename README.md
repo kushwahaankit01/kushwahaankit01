@@ -16,7 +16,7 @@
 ---
 
 ## 🧠 About Me
-I am a **third-year undergraduate** specializing in **Data Science and Artificial Intelligence** with a strong focus on **Generative AI**.  
+I am a **Fourth-year undergraduate** specializing in **Data Science and Artificial Intelligence** with a strong focus on **Generative AI**.  
 My work revolves around building **production-oriented AI systems** involving **LLMs, retrieval, fine-tuning, and real-world deployment**.
 
 I enjoy working at the intersection of **ML research and backend engineering**, turning ideas into scalable systems.
