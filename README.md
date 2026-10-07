@@ -99,8 +99,8 @@ I enjoy working at the intersection of **ML research and backend engineering**, 
 
 ## 📫 Contact
 - 📧 Email: **kushwahaankit9090@gmail.com**
-- 🔗 LinkedIn: **ankit-kushwaha-932486300**
-- 💻 GitHub: **ARSRAM**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/ankit-kushwaha-932486300/**
+
 
 ---
 
